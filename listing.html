@@ -1,53 +1,5 @@
-<!DOCTYPE html>
-<html lang="fi">
-<head>
-    meta charset="UTF-8">
-    <title>Kotia odottavat eläimet</title>
-</head>
-<body>
-
-<header>
-    <h1>Kotia odottavat eläimet</h1>
-
-    <nav>
-        <ul>
-            <li><a href="index.html">Etusivu</a></li>
-            <li><a href="about.html">Tietoa meistä</a></li>
-            <li><a href="listing.html">Eläimet</a></li>
-            <li><a href="contact.html">Yhteystiedot</a></li>
-        </ul>
-    </nav>
-</header>
-
-<main>
-
-    <article>
-        <h2>Misu</h2>
-
-        <img src="images/misu.jpg"
-             alt="Misu-kissa">
-
-        <p>
-            Rauhallinen ja ihmisrakas kissa.
-        </p>
-    </article>
-
-    <article>
-        <h2>Rekku</h2>
-
-        <img src="images/rekku.jpg"
-             alt="Rekku-koira">
-
-        <p>
-            Energinen koira aktiiviseen kotiin.
-        </p>
-    </article>
-
-</main>
-
-<footer>
-    <p>Tassula ry</p>
-</footer>
-
-</body>
-</html>
+<!doctype html>
+<html lang="fi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Tassula ry – kotia odottavat eläimet, adoption vaiheet ja adoptiokysely."><title>Kotia odottavat eläimet | Tassula ry</title><link rel="stylesheet" href="style.css"><script src="animals.js" defer></script><script src="app.js" defer></script></head><body>
+<a class="skip" href="#sisalto">Siirry sisältöön</a><header class="site-header"><div class="header-inner"><a class="brand" href="index.html" aria-label="Tassula ry – etusivu"><span class="brand-icon" aria-hidden="true">✿</span><span>Tassula<span class="brand-sub">ELÄINSUOJA · SEINÄJOEN SEUTU</span></span></a><nav aria-label="Päävalikko"><ul><li><a href="index.html">Etusivu</a></li><li><a href="about.html">Tietoa meistä</a></li><li><a href="listing.html" aria-current="page">Eläimet</a></li><li><a href="contact.html">Yhteystiedot</a></li></ul></nav></div></header>
+<main id="sisalto" tabindex="-1"><section class="page-intro"><p class="eyebrow">YSTÄVÄÄ ETSIMÄSSÄ?</p><h1>Kotia odottavat eläimet</h1><p class="lead">Yksi viihtyy sylissä, toinen metsäpoluilla. Tutustu persooniin ja kerro meille, millaisen kodin voisit tarjota.</p></section><section class="section listing-section" aria-label="Eläinlista"><p class="notice">Esimerkkieläimet ja kuvituskuvat havainnollistavat sivustoa. Tarkat tiedot ja kodin tarpeet vahvistetaan ennen oikeiden ilmoitusten julkaisua.</p><fieldset class="filters" id="filters" hidden><legend>Näytä eläinlaji</legend><div class="filter-options"><label><input type="radio" name="species" value="all" checked><span>Kaikki</span></label><label><input type="radio" name="species" value="cat"><span>Kissat</span></label><label><input type="radio" name="species" value="dog"><span>Koirat</span></label><label><input type="radio" name="species" value="other"><span>Muut</span></label></div></fieldset><p id="result-count" role="status" aria-live="polite" aria-atomic="true"></p><div class="animal-grid" id="animal-list"></div><p id="empty-state" class="notice" hidden>Tässä ryhmässä ei juuri nyt ole kotia odottavia eläimiä. Kokeile toista eläinlajia.</p><noscript><p>Eläinlista ja suodatus tarvitsevat JavaScriptin. Ota JavaScript käyttöön selaimessasi.</p></noscript></section><section class="cta"><div><h2>Mietitkö, sopisiko adoptio sinulle?</h2><p>Lue, miten tutustumisesta edetään yhteiseen arkeen.</p></div><a class="button light" href="about.html#adoptio">Adoption vaiheet <span aria-hidden="true">→</span></a></section></main>
+<footer><div class="footer-inner"><div><strong>Tassula ry</strong><p>Jokainen eläin ansaitsee oman kodin.</p></div><div><p>Vapaaehtoisten eläinsuoja Seinäjoen lähellä</p></div></div></footer></body></html>

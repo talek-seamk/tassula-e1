@@ -3,6 +3,8 @@ Kuvaus
 
 Tämä verkkosivusto on toteutettu Web-ohjelmoinnin E1-tehtävää varten.
 
+Tähän on käytetty suunniteluun ja sivuston korjaamiseen tekoälyä. Huom. Ulkonäkö on tehty tiktokista löydetyn materiaalin mukaan ohjeilla.
+
 Sivusto on tehty kuvitteelliselle asiakkaalle Tassula ry:lle. Sivuston tarkoituksena on auttaa eläimiä löytämään uusia koteja esittelemällä adoptoitavia eläimiä sekä tarjoamalla tietoa adoptioprosessista.
 Sivuston rakenne
 

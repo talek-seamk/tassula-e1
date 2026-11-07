@@ -1,0 +1,22 @@
+Kuvat: Pexels. Lisenssi tarkistettu 7.11.2026.
+https://www.pexels.com/license/
+Maksuton käyttö ja muokkaaminen sallittu, myös kaupallisilla verkkosivuilla.
+Nimeämistä ei edellytetä; tekijät on kirjattu tähän erilliseen tiedostoon.
+Lisenssi ei ole CC0 eikä rajoittamaton: älä jälleenmyy muuttamattomia kuvia,
+levitä niitä kuvapankkina tai anna virheellistä vaikutelmaa suosittelusta.
+Tämän sivuston eläinkuvat on merkitty kuvituskuviksi. Kuvia ei esitetä
+valokuvina oikeista Tassulan adoptioeläimistä.
+
+images/misu.jpg – Gülsüm Şener
+https://www.pexels.com/photo/portrait-of-an-orange-tabby-cat-7367247/
+https://images.pexels.com/photos/7367247/pexels-photo-7367247.jpeg
+
+images/rekku.jpg – Eduardo López
+https://www.pexels.com/photo/portrait-of-dog-16618553/
+https://images.pexels.com/photos/16618553/pexels-photo-16618553.jpeg
+
+images/paju.jpg – Toni Cuenca
+https://www.pexels.com/photo/gray-rabbit-583676/
+https://images.pexels.com/photos/583676/pexels-photo-583676.jpeg
+
+Kuvat on ladattu pienennettyinä; CSS rajaa niitä asetteluun sopiviksi.
