@@ -17,8 +17,5 @@ HTML5, CSS3 ja JavaScript. Versionhallinta: Git ja GitHub. Julkaisu: GitHub Page
 
 Sivusto mukautuu eri näyttökokoihin. Saavutettavuutta tukevat otsikkotasot, alt-tekstit, näppäimistökäyttö, sisältöön-siirtymislinkki sekä lomakkeen nimetyt kentät ja virheilmoitukset.
 
-## Käyttö ja tekijä
 
-Avaa index.html selaimessa. Eläinkortit, suodatus ja lomakkeen tarkistus vaativat JavaScriptin.
-
-Aleksi Tulijoki · Web-ohjelmointi · E1
+Web-ohjelmointi · E1
