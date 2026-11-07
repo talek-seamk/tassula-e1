@@ -1,46 +1,24 @@
-Tassula ry - Kotia odottavat eläimet
-Kuvaus
+# Tassula ry – Kotia odottavat eläimet
 
-Tämä verkkosivusto on toteutettu Web-ohjelmoinnin E1-tehtävää varten.
+Web-ohjelmoinnin E1-tehtävänä toteutettu sivusto kuvitteelliselle Tassula ry:lle. Sivusto esittelee kotia etsiviä eläimiä ja adoption vaiheita. Tekoälyä on käytetty suunnitteluun ja korjauksiin. Ulkoasun pohjana on käytetty TikTokista löydettyä ohjemateriaalia.
 
-Tähän on käytetty suunniteluun ja sivuston korjaamiseen tekoälyä. Huom. Ulkonäkö on tehty tiktokista löydetyn materiaalin mukaan ohjeilla.
+## Sivut ja toiminnot
 
-Sivusto on tehty kuvitteelliselle asiakkaalle Tassula ry:lle. Sivuston tarkoituksena on auttaa eläimiä löytämään uusia koteja esittelemällä adoptoitavia eläimiä sekä tarjoamalla tietoa adoptioprosessista.
-Sivuston rakenne
+- index.html – sivuston esittely ja eläinkortit.
+- about.html – yhdistyksen esittely ja adoption vaiheet.
+- listing.html – eläinten suodatus: kissat, koirat ja muut. Adoptoidut eläimet piilotetaan.
+- contact.html – adoptiokyselyn tarkistus ja yhteenveto. 
 
-    Etusivu (index.html)
-    Sivuston esittely.
+Eläintiedot ovat animals.js-tiedostossa. Adoptoidun eläimen status muutetaan arvoon "adopted". Eläimet ovat esimerkkejä ja kuvat kuvituskuvia. Kuvien lähteet ja käyttöehdot ovat KUVAT.txt-tiedostossa.
 
-    Tietoa meistä (about.html)
-    Tietoa Tassula ry:stä ja adoptioprosessin vaiheista.
+## Tekniikat ja saavutettavuus
 
-    Kotia odottavat eläimet (listing.html)
-    Adoptioita odottavien eläinten esittely.
+HTML5, CSS3 ja JavaScript. Versionhallinta: Git ja GitHub. Julkaisu: GitHub Pages.
 
-    Yhteystiedot (contact.html)
-    Adoptiokyselylomake ja yhteystiedot.
+Sivusto mukautuu eri näyttökokoihin. Saavutettavuutta tukevat otsikkotasot, alt-tekstit, näppäimistökäyttö, sisältöön-siirtymislinkki sekä lomakkeen nimetyt kentät ja virheilmoitukset.
 
-Käytetyt teknologiat
+## Käyttö ja tekijä
 
-    HTML5
-    Git
-    GitHub
-    GitHub Pages
+Avaa index.html selaimessa. Eläinkortit, suodatus ja lomakkeen tarkistus vaativat JavaScriptin.
 
-Saavutettavuus
-
-Sivustolla on pyritty huomioimaan saavutettavuus:
-
-    Selkeät otsikkotasot
-    Navigointi kaikilla sivuilla
-    Kuville vaihtoehtoiset alt-tekstit
-    Selkeä sivurakenne
-
-Julkaisu
-
-Sivusto on julkaistu GitHub Pagesin avulla.
-Tekijä
-
-Aleksi Tulijoki
-Kurssi
-Web-ohjelmointi
+Aleksi Tulijoki · Web-ohjelmointi · E1
