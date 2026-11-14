@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300" font-family="Arial, Helvetica, sans-serif">
+<title>Tassulan väripaletti vaaleassa ja tummassa tilassa</title>
+<rect width="780" height="300" fill="#ffffff"/>
+<text x="20" y="34" font-size="15" font-weight="bold" fill="#2e2a24">Vaalea tila</text>
+<rect x="20" y="48" width="116" height="90" rx="6" fill="#f3ead8" stroke="#b8a888" stroke-width="1"/>
+<text x="30" y="76" font-size="13" fill="#1d1915">Tausta</text>
+<text x="30" y="124" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#f3ead8</text>
+<rect x="146" y="48" width="116" height="90" rx="6" fill="#fcf8ef" stroke="#b8a888" stroke-width="1"/>
+<text x="156" y="76" font-size="13" fill="#1d1915">Kortti</text>
+<text x="156" y="124" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#fcf8ef</text>
+<rect x="272" y="48" width="116" height="90" rx="6" fill="#e9ddc7" stroke="#b8a888" stroke-width="1"/>
+<text x="282" y="76" font-size="13" fill="#1d1915">Huomautus</text>
+<text x="282" y="124" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#e9ddc7</text>
+<rect x="398" y="48" width="116" height="90" rx="6" fill="#2e2a24" stroke="#b8a888" stroke-width="1"/>
+<text x="408" y="76" font-size="13" fill="#ffffff">Teksti</text>
+<text x="408" y="124" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#2e2a24</text>
+<rect x="524" y="48" width="116" height="90" rx="6" fill="#635849" stroke="#b8a888" stroke-width="1"/>
+<text x="534" y="76" font-size="13" fill="#ffffff">Aputeksti</text>
+<text x="534" y="124" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#635849</text>
+<rect x="650" y="48" width="116" height="90" rx="6" fill="#8a5a2b" stroke="#b8a888" stroke-width="1"/>
+<text x="660" y="76" font-size="13" fill="#ffffff">Korostus</text>
+<text x="660" y="124" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#8a5a2b</text>
+<text x="20" y="174" font-size="15" font-weight="bold" fill="#2e2a24">Tumma tila</text>
+<rect x="20" y="188" width="116" height="90" rx="6" fill="#1d1915" stroke="#b8a888" stroke-width="1"/>
+<text x="30" y="216" font-size="13" fill="#ffffff">Tausta</text>
+<text x="30" y="264" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#1d1915</text>
+<rect x="146" y="188" width="116" height="90" rx="6" fill="#27211b" stroke="#b8a888" stroke-width="1"/>
+<text x="156" y="216" font-size="13" fill="#ffffff">Kortti</text>
+<text x="156" y="264" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#27211b</text>
+<rect x="272" y="188" width="116" height="90" rx="6" fill="#342b22" stroke="#b8a888" stroke-width="1"/>
+<text x="282" y="216" font-size="13" fill="#ffffff">Huomautus</text>
+<text x="282" y="264" font-size="13" font-family="Consolas, monospace" fill="#ffffff">#342b22</text>
+<rect x="398" y="188" width="116" height="90" rx="6" fill="#f1e9dd" stroke="#b8a888" stroke-width="1"/>
+<text x="408" y="216" font-size="13" fill="#1d1915">Teksti</text>
+<text x="408" y="264" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#f1e9dd</text>
+<rect x="524" y="188" width="116" height="90" rx="6" fill="#cdbfaa" stroke="#b8a888" stroke-width="1"/>
+<text x="534" y="216" font-size="13" fill="#1d1915">Aputeksti</text>
+<text x="534" y="264" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#cdbfaa</text>
+<rect x="650" y="188" width="116" height="90" rx="6" fill="#e2aa6f" stroke="#b8a888" stroke-width="1"/>
+<text x="660" y="216" font-size="13" fill="#1d1915">Korostus</text>
+<text x="660" y="264" font-size="13" font-family="Consolas, monospace" fill="#1d1915">#e2aa6f</text>
+</svg>
